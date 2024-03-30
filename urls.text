@@ -1,0 +1,22 @@
+URL- Uniform resource locator
+URI- Uniform resource Identifier
+DNS- Domain Name system-- Has IP address 
+MITM- Man in the middle attack
+
+https://www.google.com/test/test1.php?id=2
+
+
+components of URL:
+
+https:// http:// - protocol
+.com-- tld --top level Domain
+/test/test1.php -- location/path or directory
+
+*************************
+* parameter | value     *
+* id=2                  *
+*                       *
+*                       *
+*************************
+
+There could be lots of param and value
